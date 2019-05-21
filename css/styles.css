@@ -1,10 +1,12 @@
 header{
   background-image: url("../bc.jpg");
+  color: white;
 }
 footer{
   background-image: url("../bd.jpg");
+  color: white;
 }
 img{
-  width: 40%;
-  height: 40%;
+  width: 80%;
+  height: 80%;
 }
