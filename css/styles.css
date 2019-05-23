@@ -21,8 +21,7 @@ section{
   text-align: right;
   font-size: 20px;
 }
-/* Make the image fully responsive */
 .carousel-inner img {
-  width: 100%;
-  height: 100%;
+  width: 600px;
+  height: 600px;
 }
